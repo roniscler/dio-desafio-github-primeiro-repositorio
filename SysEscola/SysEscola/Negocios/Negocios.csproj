@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{22328352-1F2D-40DD-BFB6-2730143BC2D9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Negocios</RootNamespace>
+    <AssemblyName>Negocios</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlunoNegocios.cs" />
+    <Compile Include="AlunoAfastamentoNegocios.cs" />
+    <Compile Include="BackupRestoreNegocios.cs" />
+    <Compile Include="BairrosNegocios.cs" />
+    <Compile Include="BimestreNegocios.cs" />
+    <Compile Include="CarnezinhoNegocios.cs" />
+    <Compile Include="ContaCorrenteNegocios.cs" />
+    <Compile Include="CondicoesSonoNegocios.cs" />
+    <Compile Include="Conv_FamiliarNegocio.cs" />
+    <Compile Include="CorAlunoNegocios.cs" />
+    <Compile Include="Criptografia.cs" />
+    <Compile Include="Dados_EmpresaNegocios.cs" />
+    <Compile Include="DoencaNegocio.cs" />
+    <Compile Include="EloAlunoTurmaNegocios.cs" />
+    <Compile Include="EloCondSonoNegocios.cs" />
+    <Compile Include="EloConv_FamiliarNegocios.cs" />
+    <Compile Include="EloDoencaNegocios.cs" />
+    <Compile Include="EloFazSozinhaNegocios.cs" />
+    <Compile Include="EloHabitosNegocios.cs" />
+    <Compile Include="EloHorarioRegularNegocios.cs" />
+    <Compile Include="EloTurmaProfessorNegocios.cs" />
+    <Compile Include="EmprestimoLivroNegocios.cs" />
+    <Compile Include="EscolaridadeNegocios.cs" />
+    <Compile Include="Est_CivilNegocios.cs" />
+    <Compile Include="FazSozinhaNegocios.cs" />
+    <Compile Include="FornecedorNegocios.cs" />
+    <Compile Include="GenerosLiterariosNegocios.cs" />
+    <Compile Include="Habilt_ProfissionalNegocios.cs" />
+    <Compile Include="HabitosNegocios.cs" />
+    <Compile Include="HorarioRegularNegocios.cs" />
+    <Compile Include="ItensAvaliacaoPedagNegocios.cs" />
+    <Compile Include="LancamentoConceitoNegocios.cs" />
+    <Compile Include="LancamentoNotaNegocios.cs" />
+    <Compile Include="LivroDidaticoNegocios.cs" />
+    <Compile Include="MateriaNegocios.cs" />
+    <Compile Include="MensalidadeNegocios.cs" />
+    <Compile Include="PlanosNegocios.cs" />
+    <Compile Include="ProfessorAfastamentoNegocios.cs" />
+    <Compile Include="ProfessorNegocios.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReligiaoNegocios.cs" />
+    <Compile Include="ResponsavelNegocios.cs" />
+    <Compile Include="Resp_LegalNegocios.cs" />
+    <Compile Include="SerieNegocios.cs" />
+    <Compile Include="SubContaCorrenteNegocios.cs" />
+    <Compile Include="SubItemAvaliacaoPedagogicaNegocios.cs" />
+    <Compile Include="TipoConceitoNegocios.cs" />
+    <Compile Include="TurmaNegocios.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AcessoDados\AcessoDados.csproj">
+      <Project>{FA3EE063-7116-4363-8C47-643502A82194}</Project>
+      <Name>AcessoDados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoTrasnferencia\ObjetoTrasnferencia.csproj">
+      <Project>{CF516896-8618-46D3-AF68-9BA69CD5D227}</Project>
+      <Name>ObjetoTrasnferencia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Util\Utilitario.csproj">
+      <Project>{8d179b40-1d08-43be-b961-1a149cad4874}</Project>
+      <Name>Utilitario</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

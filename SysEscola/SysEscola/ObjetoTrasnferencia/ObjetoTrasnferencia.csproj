@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CF516896-8618-46D3-AF68-9BA69CD5D227}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ObjetoTrasnferencia</RootNamespace>
+    <AssemblyName>ObjetoTrasnferencia</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aluno.cs" />
+    <Compile Include="AlunoAfastamento.cs" />
+    <Compile Include="AlunoColecao.cs" />
+    <Compile Include="AlunoAfastamentoColecao.cs" />
+    <Compile Include="Bairros.cs" />
+    <Compile Include="BairrosColecao.cs" />
+    <Compile Include="BasePessoa.cs" />
+    <Compile Include="Bimestres.cs" />
+    <Compile Include="BimestresColecao.cs" />
+    <Compile Include="Carnezinho.cs" />
+    <Compile Include="CarnezinhoColecao.cs" />
+    <Compile Include="CentroDeCusto.cs" />
+    <Compile Include="CentroDeCustoColecao.cs" />
+    <Compile Include="CondicoesSono.cs" />
+    <Compile Include="CondicoesSonoColecao.cs" />
+    <Compile Include="ContaCorrente.cs" />
+    <Compile Include="ContaCorrenteColecao.cs" />
+    <Compile Include="ColecaoHabilit_Profissional.cs" />
+    <Compile Include="ContasPagar.cs" />
+    <Compile Include="ContasPagarColecao.cs" />
+    <Compile Include="ContasReceber.cs" />
+    <Compile Include="ContasReceberColecao.cs" />
+    <Compile Include="ConvivenciaFamiliar.cs" />
+    <Compile Include="ConvivenciaFamiliarColecao.cs" />
+    <Compile Include="CorAluno.cs" />
+    <Compile Include="CorAlunoColecao.cs" />
+    <Compile Include="DadosEmpresa.cs" />
+    <Compile Include="DadosEmpresaColecao.cs" />
+    <Compile Include="Doenca.cs" />
+    <Compile Include="DoencaColecao.cs" />
+    <Compile Include="DTOEloAlunoTurma.cs" />
+    <Compile Include="DTOEloAlunoTurmaColecao.cs" />
+    <Compile Include="DTOEloTurmaProfessor.cs" />
+    <Compile Include="DTOEloTurmaProfessorColecao.cs" />
+    <Compile Include="DTOFichaAluno.cs" />
+    <Compile Include="DTOFichaAlunoColecao.cs" />
+    <Compile Include="DTOMensalidadeCarnet.cs" />
+    <Compile Include="DTOMensalidadeCarnetColecao.cs" />
+    <Compile Include="DTOPlanoEstudantil.cs" />
+    <Compile Include="DTOPLanoEstudantilColecao.cs" />
+    <Compile Include="DTORespLegal.cs" />
+    <Compile Include="DTORespLegalColecao.cs" />
+    <Compile Include="DTOTurmAluno.cs" />
+    <Compile Include="DTOTurmAlunoColecao.cs" />
+    <Compile Include="EloAlunoTurma.cs" />
+    <Compile Include="EloAlunoTurmaColecao.cs" />
+    <Compile Include="EloCondicoesSono.cs" />
+    <Compile Include="EloCondicoesSonoColecao.cs" />
+    <Compile Include="EloConvivenciaFamiliar.cs" />
+    <Compile Include="EloConvivenciaFamiliarColecao.cs" />
+    <Compile Include="EloCPagarRepresentanteLegal.cs" />
+    <Compile Include="EloCPagarRepresentanteLegalColecao.cs" />
+    <Compile Include="EloCPagRecFornecedor.cs" />
+    <Compile Include="EloDoenca.cs" />
+    <Compile Include="EloDoencaColecao.cs" />
+    <Compile Include="EloFazSozinha.cs" />
+    <Compile Include="EloFazSozinhaColecao.cs" />
+    <Compile Include="EloHabitoColecao.cs" />
+    <Compile Include="EloHabitos.cs" />
+    <Compile Include="EloHorarioRegular.cs" />
+    <Compile Include="EloHorarioRegularColecao.cs" />
+    <Compile Include="EloTurmaProfessor.cs" />
+    <Compile Include="EloTurmaProfessorColecao.cs" />
+    <Compile Include="EmprestimoLivro.cs" />
+    <Compile Include="EmprestimoLivroColecao.cs" />
+    <Compile Include="Escolaridade.cs" />
+    <Compile Include="EscolaridadeColecao.cs" />
+    <Compile Include="EstadoCivil.cs" />
+    <Compile Include="EstadoCivilColecao.cs" />
+    <Compile Include="FazSozinha.cs" />
+    <Compile Include="FazSozinhaColecao.cs" />
+    <Compile Include="FormaDePagto.cs" />
+    <Compile Include="FormaDePagtoColecao.cs" />
+    <Compile Include="Fornecedor.cs" />
+    <Compile Include="FornecedorColecao.cs" />
+    <Compile Include="GenerosLiterarios.cs" />
+    <Compile Include="GenerosLiterariosColecao.cs" />
+    <Compile Include="Habilit_Profissional.cs" />
+    <Compile Include="Habilit_ProfissionaolColecao.cs" />
+    <Compile Include="HabitoColecao.cs" />
+    <Compile Include="Habito.cs" />
+    <Compile Include="HorarioRegular.cs" />
+    <Compile Include="HorarioRegularColecao.cs" />
+    <Compile Include="ItensAvaliacaoPedagogica.cs" />
+    <Compile Include="ItensAvaliacaoPedagogicaColecao.cs" />
+    <Compile Include="LancamentoConceito.cs" />
+    <Compile Include="LancamentoConceitoColecao.cs" />
+    <Compile Include="LancamentoNota.cs" />
+    <Compile Include="LancamentoNotaColecao.cs" />
+    <Compile Include="LivroDidatico.cs" />
+    <Compile Include="LivroDidaticoColecao.cs" />
+    <Compile Include="Materia.cs" />
+    <Compile Include="MateriaColecao.cs" />
+    <Compile Include="Mensalidade.cs" />
+    <Compile Include="MensalidadeColecao.cs" />
+    <Compile Include="PlanoDeContas.cs" />
+    <Compile Include="PlanoDeContasColecao.cs" />
+    <Compile Include="Planos.cs" />
+    <Compile Include="PlanosColecao.cs" />
+    <Compile Include="ProfessorAfastamento.cs" />
+    <Compile Include="ProfessorAfastamentoColecao.cs" />
+    <Compile Include="ProfessorColecao.cs" />
+    <Compile Include="Professor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Religiao.cs" />
+    <Compile Include="ReligiaoColecao.cs" />
+    <Compile Include="RespLegal.cs" />
+    <Compile Include="RespLegalColecao.cs" />
+    <Compile Include="Responsavel.cs" />
+    <Compile Include="ResponsavelColecao.cs" />
+    <Compile Include="SerieEstudantil.cs" />
+    <Compile Include="SerieEstudantilColecao.cs" />
+    <Compile Include="SubContaCorrente.cs" />
+    <Compile Include="SubContaCorrenteColecao.cs" />
+    <Compile Include="SubItensAvaliacaoPedagogica.cs" />
+    <Compile Include="SubItensAvaliacaoPedagogicaColecao.cs" />
+    <Compile Include="TipoConceito.cs" />
+    <Compile Include="TipoConceitoColecao.cs" />
+    <Compile Include="Turma.cs" />
+    <Compile Include="TurmaColecao.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsAlunosPorTurma" targetNamespace="http://tempuri.org/DsAlunosPorTurma.xsd" xmlns:mstns="http://tempuri.org/DsAlunosPorTurma.xsd" xmlns="http://tempuri.org/DsAlunosPorTurma.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsAlunosPorTurma" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsAlunosPorTurma" msprop:Generator_UserDSName="DsAlunosPorTurma">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Turma" msprop:Generator_TableClassName="TurmaDataTable" msprop:Generator_TableVarName="tableTurma" msprop:Generator_TablePropName="Turma" msprop:Generator_RowDeletingName="TurmaRowDeleting" msprop:Generator_RowChangingName="TurmaRowChanging" msprop:Generator_RowEvHandlerName="TurmaRowChangeEventHandler" msprop:Generator_RowDeletedName="TurmaRowDeleted" msprop:Generator_UserTableName="Turma" msprop:Generator_RowChangedName="TurmaRowChanged" msprop:Generator_RowEvArgName="TurmaRowChangeEvent" msprop:Generator_RowClassName="TurmaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cod_Turma" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnCod_Turma" msprop:Generator_ColumnPropNameInRow="Cod_Turma" msprop:Generator_ColumnPropNameInTable="Cod_TurmaColumn" msprop:Generator_UserColumnName="Cod_Turma" type="xs:int" />
+              <xs:element name="Nome_Turma" msprop:Generator_ColumnVarNameInTable="columnNome_Turma" msprop:Generator_ColumnPropNameInRow="Nome_Turma" msprop:Generator_ColumnPropNameInTable="Nome_TurmaColumn" msprop:Generator_UserColumnName="Nome_Turma">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ano_Letivo" msprop:Generator_ColumnVarNameInTable="columnAno_Letivo" msprop:Generator_ColumnPropNameInRow="Ano_Letivo" msprop:Generator_ColumnPropNameInTable="Ano_LetivoColumn" msprop:Generator_UserColumnName="Ano_Letivo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nr_Sala" msprop:Generator_ColumnVarNameInTable="columnNr_Sala" msprop:Generator_ColumnPropNameInRow="Nr_Sala" msprop:Generator_ColumnPropNameInTable="Nr_SalaColumn" msprop:Generator_UserColumnName="Nr_Sala" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nome_Serie" msprop:Generator_ColumnVarNameInTable="columnNome_Serie" msprop:Generator_ColumnPropNameInRow="Nome_Serie" msprop:Generator_ColumnPropNameInTable="Nome_SerieColumn" msprop:Generator_UserColumnName="Nome_Serie" type="xs:string" />
+              <xs:element name="Nome_aluno" msprop:Generator_ColumnVarNameInTable="columnNome_aluno" msprop:Generator_ColumnPropNameInRow="Nome_aluno" msprop:Generator_ColumnPropNameInTable="Nome_alunoColumn" msprop:Generator_UserColumnName="Nome_aluno" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Data_Nascto" msprop:Generator_ColumnVarNameInTable="columnData_Nascto" msprop:Generator_ColumnPropNameInRow="Data_Nascto" msprop:Generator_ColumnPropNameInTable="Data_NasctoColumn" msprop:Generator_UserColumnName="Data_Nascto" type="xs:dateTime" />
+              <xs:element name="Nome_Professor" msprop:Generator_ColumnVarNameInTable="columnNome_Professor" msprop:Generator_ColumnPropNameInRow="Nome_Professor" msprop:Generator_ColumnPropNameInTable="Nome_ProfessorColumn" msprop:Generator_UserColumnName="Nome_Professor" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Turma" />
+      <xs:field xpath="mstns:Cod_Turma" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

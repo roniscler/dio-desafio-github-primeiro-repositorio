@@ -1,0 +1,5 @@
+D:\SysEscola\SysEscola\AcessoDados\bin\Release\AcessoDados.dll.config
+D:\SysEscola\SysEscola\AcessoDados\bin\Release\AcessoDados.dll
+D:\SysEscola\SysEscola\AcessoDados\bin\Release\AcessoDados.pdb
+D:\SysEscola\SysEscola\AcessoDados\obj\Release\AcessoDados.dll
+D:\SysEscola\SysEscola\AcessoDados\obj\Release\AcessoDados.pdb

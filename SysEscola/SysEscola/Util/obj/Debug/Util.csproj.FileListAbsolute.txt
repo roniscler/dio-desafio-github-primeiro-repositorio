@@ -1,0 +1,4 @@
+F:\SysEscola\SysEscola\Util\bin\Debug\Util.dll
+F:\SysEscola\SysEscola\Util\bin\Debug\Util.pdb
+F:\SysEscola\SysEscola\Util\obj\Debug\Util.dll
+F:\SysEscola\SysEscola\Util\obj\Debug\Util.pdb

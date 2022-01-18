@@ -1,0 +1,4 @@
+D:\SysEscola\SysEscola\ObjetoTrasnferencia\bin\Release\ObjetoTrasnferencia.dll
+D:\SysEscola\SysEscola\ObjetoTrasnferencia\bin\Release\ObjetoTrasnferencia.pdb
+D:\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Release\ObjetoTrasnferencia.dll
+D:\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Release\ObjetoTrasnferencia.pdb

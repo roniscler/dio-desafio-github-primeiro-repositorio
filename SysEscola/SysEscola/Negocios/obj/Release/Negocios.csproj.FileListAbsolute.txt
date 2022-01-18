@@ -1,0 +1,9 @@
+D:\SysEscola\SysEscola\Negocios\bin\Release\Negocios.dll
+D:\SysEscola\SysEscola\Negocios\bin\Release\Negocios.pdb
+D:\SysEscola\SysEscola\Negocios\bin\Release\AcessoDados.dll
+D:\SysEscola\SysEscola\Negocios\bin\Release\ObjetoTrasnferencia.dll
+D:\SysEscola\SysEscola\Negocios\bin\Release\AcessoDados.pdb
+D:\SysEscola\SysEscola\Negocios\bin\Release\ObjetoTrasnferencia.pdb
+D:\SysEscola\SysEscola\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+D:\SysEscola\SysEscola\Negocios\obj\Release\Negocios.dll
+D:\SysEscola\SysEscola\Negocios\obj\Release\Negocios.pdb
