@@ -22,3 +22,9 @@ C:\SysEscola\SysEscola\ObjetoTrasnferencia\bin\Debug\ObjetoTrasnferencia.pdb
 C:\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.csproj.CoreCompileInputs.cache
 C:\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.dll
 C:\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\bin\Debug\ObjetoTrasnferencia.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\bin\Debug\ObjetoTrasnferencia.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.csproj.CoreCompileInputs.cache
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.csproj.AssemblyReference.cache

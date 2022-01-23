@@ -17,3 +17,9 @@ C:\SysEscola\SysEscola\Util\bin\Debug\Utilitario.pdb
 C:\SysEscola\SysEscola\Util\obj\Debug\Utilitario.csproj.CoreCompileInputs.cache
 C:\SysEscola\SysEscola\Util\obj\Debug\Utilitario.dll
 C:\SysEscola\SysEscola\Util\obj\Debug\Utilitario.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Util\bin\Debug\Utilitario.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Util\bin\Debug\Utilitario.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Util\obj\Debug\Utilitario.csproj.CoreCompileInputs.cache
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Util\obj\Debug\Utilitario.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Util\obj\Debug\Utilitario.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Util\obj\Debug\Utilitario.csproj.AssemblyReference.cache

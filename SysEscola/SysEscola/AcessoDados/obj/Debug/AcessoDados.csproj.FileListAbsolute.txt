@@ -26,3 +26,10 @@ C:\SysEscola\SysEscola\AcessoDados\bin\Debug\AcessoDados.pdb
 C:\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.csproj.CoreCompileInputs.cache
 C:\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.dll
 C:\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\bin\Debug\AcessoDados.dll.config
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\bin\Debug\AcessoDados.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.csproj.CoreCompileInputs.cache
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.csproj.AssemblyReference.cache

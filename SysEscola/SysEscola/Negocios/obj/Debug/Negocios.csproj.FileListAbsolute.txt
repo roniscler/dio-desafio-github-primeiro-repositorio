@@ -54,3 +54,17 @@ C:\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cach
 C:\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.csproj.CopyComplete
 C:\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.dll
 C:\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\Negocios.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\Negocios.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\AcessoDados.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\ObjetoTrasnferencia.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\Utilitario.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\AcessoDados.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\AcessoDados.dll.config
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\ObjetoTrasnferencia.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\bin\Debug\Utilitario.pdb
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.dll
+C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Negocios\obj\Debug\Negocios.pdb
