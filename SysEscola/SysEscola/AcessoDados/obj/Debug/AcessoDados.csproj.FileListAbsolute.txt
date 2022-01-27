@@ -32,4 +32,3 @@ C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Ace
 C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.csproj.CoreCompileInputs.cache
 C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.dll
 C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.pdb
-C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\AcessoDados\obj\Debug\AcessoDados.csproj.AssemblyReference.cache

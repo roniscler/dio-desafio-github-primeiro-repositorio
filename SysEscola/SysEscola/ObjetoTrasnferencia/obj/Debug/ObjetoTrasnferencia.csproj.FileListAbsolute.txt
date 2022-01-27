@@ -27,4 +27,3 @@ C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\Obj
 C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.csproj.CoreCompileInputs.cache
 C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.dll
 C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.pdb
-C:\workspace\Dio\dio-desafio-github-primeiro-repositorio\SysEscola\SysEscola\ObjetoTrasnferencia\obj\Debug\ObjetoTrasnferencia.csproj.AssemblyReference.cache
